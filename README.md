@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sothiis&layout=compact)](https://github.com/sothiis/github-readme-stats)
 
-![Sothiis' GitHub stats](https://github-readme-stats.vercel.app/api?username=sothiis&theme=jolly&show_icons=true)
-<br>
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff69b4)
+
+
 
 
 
