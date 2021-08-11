@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff69b4)
+
 
 
 
